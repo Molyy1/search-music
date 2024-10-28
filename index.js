@@ -6,7 +6,7 @@ const https = require("https");
 
 const app = express();
 const PORT = 3000;
-const API_KEY = "AIzaSyBpEKRgZTMVF2FoojngWrwlpxo-WCANbTM"; // Replace with your YouTube API key
+const API_KEY = "AIzaSyDBV2IhZJgJ2OIYqn1sfiHGmdXUXhWNc_M"; // Replace with your YouTube API key
 
 // Serve the HTML file
 app.get("/", (req, res) => {
